@@ -1,0 +1,12 @@
+IsEmpty --> linkstack, adtarray
+Info --> set, pqueuelist
+address --> set, queuelist
+CreateEmpty --> set, linkstack, map
+Alokasi --> set, linkstack
+Dealokasi --> linkstack, set
+IsFull --> set, adtarray
+infotype --> set, map
+Insert --> map, set
+Delete --> map, set
+
+> adtarray
